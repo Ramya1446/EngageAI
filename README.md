@@ -32,6 +32,10 @@ Scores map to:
 - ❄️ **Cold Lead** = below 50
 
 ---
+## Screenshot
+<img width="1819" height="798" alt="image" src="https://github.com/user-attachments/assets/a8fdeb0f-f8e0-4285-89ee-cd76918803e5" />
+<img width="1760" height="766" alt="image" src="https://github.com/user-attachments/assets/5d755f2a-d221-461d-8552-c5e16b1a1a50" />
+
 
 ## 💌 Outreach Strategy Engine
 
